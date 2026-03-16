@@ -1,8 +1,12 @@
 import React from 'react'
+import LogIn from './Components/LogIn'
 
 const App = () => {
   return (
-    <div>App</div>
+    <>
+      {/* Two way binding : manage form filed using usestate */}
+      <LogIn />
+    </>
   )
 }
 
