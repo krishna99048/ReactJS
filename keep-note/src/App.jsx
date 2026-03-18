@@ -1,8 +1,5 @@
 import React, { useState } from 'react'
 
-
-
-
 const App = () => {
   const [Title, setTitle] = useState("")
   const [Notes, setNotes] = useState("")
@@ -74,18 +71,4 @@ const App = () => {
     </>
   )
 }
-
-
-
-
 export default App
-
-
-
-
-
-
-
-
-
-
