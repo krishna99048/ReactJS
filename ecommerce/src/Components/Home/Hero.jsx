@@ -26,7 +26,7 @@ const Hero = () => {
           <p className="text-lg md:text-xl  font-noraml leading-normal text-black/60">
             Lorem ipsum dolor sit amet consectetur
             adipisicing elit. Ab  
- vel nihil quaerat illum qui? Natus.
+            vel nihil quaerat illum qui? Natus.
           </p>
 
           {/* button */}

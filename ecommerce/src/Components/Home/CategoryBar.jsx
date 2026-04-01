@@ -13,7 +13,7 @@ const CategorySection = () => {
             <h2 className="text-4xl font-semibold mt-5">For Women’s</h2>
             <p className="text-gray-500 text-md mt-2">
               Lorem ipsum dolor sit amet, <br />
-consectetur adipiscing elit, sed do
+              consectetur adipiscing elit, sed do
             </p>
 
             <ul className="my-4 space-y-4 text-md text-gray-700">
@@ -30,7 +30,7 @@ consectetur adipiscing elit, sed do
           <img
             src="/Category/woman.png"
             alt="women"
-            className="absolute bottom-0 -right-30 w-[90%] rotate-y-180 object-contain"
+            className="absolute bottom-0 -right-30 w-[90%]  rotate-y-180 object-contain"
           />
         </div>
 

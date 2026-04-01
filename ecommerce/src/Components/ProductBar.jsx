@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import ProductCard from '../ui/ProductCard'
+import ProductCard from '../UI/ProductCard'
 import axios from "axios"
 import { Link } from 'react-router-dom';
 
